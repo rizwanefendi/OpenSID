@@ -53,6 +53,8 @@ Pengguna dan pegiat SID dapat melaporkan dan mendaftarkan masalah/usulan/permint
 
 Komunitas SID juga bebas, bahkan diajak, untuk turut membuat kontribusi pada panduan OpenSID di https://github.com/OpenSID/OpenSID/wiki, dan pada script OpenSID di (https://github.com/OpenSID/OpenSID).
 
+opensid diharapkan bisa dikembangkan bersama komunitas programmer indonesia.
+
 ## DONASI
 
 [![Backers on Open Collective](https://opencollective.com/OpenSID/backers/badge.svg)](#backers)
